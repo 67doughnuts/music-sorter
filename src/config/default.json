@@ -1,0 +1,19 @@
+{
+  "sourcePath": "/data/data/com.termux/files/home/storage/music/Telegram",
+  "destinationPath": "/data/data/com.termux/files/home/storage/music/Telegram/sorted-music",
+  "supportedFormats": [
+    ".mp3",
+    ".flac",
+    ".m4a",
+    ".wav"
+  ],
+  "metadata": {
+    "preferAlbumArtist": true,
+    "unknownArtistName": "Unknown Artist",
+    "unknownAlbumName": "Unknown Album"
+  },
+  "logging": {
+    "level": "info",
+    "directory": "logs"
+  }
+}

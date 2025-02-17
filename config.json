@@ -1,0 +1,11 @@
+{
+    "sourceDirectory": "/data/data/com.termux/files/home/storage/music/Telegram",
+    "targetDirectory": "/data/data/com.termux/files/home/storage/music/Telegram/sorted-music",
+    "supportedFileTypes": [".flac", ".mp3", ".m4a"],
+    "sortingRules": {
+        "albumArtist": "albumartist",
+        "artist": "artist",
+        "album": "album"
+}
+}
+
